@@ -111,12 +111,12 @@ body>.button>button:hover{
     .msg{
         font-size: 8vw;
         height: 13vw;
-        margin-bottom: 1vw;
+        padding-bottom: 2vw;
     }
     body>.button{
         position: relative;
         display: flex;
-        top: 0vw;
+        top: 3vw;
         right: 0vw;
         left: 5.8vw;
         justify-content: center;
